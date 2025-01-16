@@ -1,4 +1,5 @@
 Flask
+guncoen
 langchain
 openai
 chromadb
